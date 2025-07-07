@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo ** PWA con React Vite**<
 
-h3 align="left">Conéctate conmigo:</h3><p align="left">
+<h3 align="left">Conéctate conmigo:</h3><p align="left">
 <a href="https://twitter.com/@victorsigma11
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@victorsigma11" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/victorsigma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="victorsigma" height="30" width="40" /></a>
