@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [MCCC](https://github.com/victorsigma/Module-Craft-Code-CLI)
 
-- 🌱 I’m currently learning **PWA with React Vite**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@victorsigma11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@victorsigma11" height="30" width="40" /></a>
